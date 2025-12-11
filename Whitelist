@@ -2423,7 +2423,7 @@ zenaps.com
 zmtcdn.edgekey.net
 zomato.com
 zomato.com.edgekey.net
-mobile.events.data.microsoft.com^$important
+mobile.events.data.microsoft.com
 cn5nwepqashg5zw52k5d6ib3kusvjbny-c2r.metric.gstatic.com
 wns2-am3p.wns.windows.com
 wcps.t-online.de
@@ -2446,8 +2446,8 @@ gateway.isolarcloud.eu
 api.isolarcloud.eu
 connect.isolarcloud.eu
 webconnect.isolarcloud.eu
-https://file.isolarcloud.eu
-https://file.isolarcloud.com
+file.isolarcloud.eu
+file.isolarcloud.com
 15rwf73x.r.us-east-1.awstrack.me
 babywelt.club
 cricut.com
@@ -2512,7 +2512,7 @@ cdn-apple.com
 gc.apple.com
 icloud.com
 icloud.apple.com
-icloud-content.com^$important
+icloud-content.com
 mzstatic.com
 audiocontentdownload.apple.com
 devimages-cdn.apple.com
